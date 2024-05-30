@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codewithAshX [ Ashray Chauhan]
 - 📫 How to reach me: ashraychauhan333@gmail.com
-- 💞️ Love to buid stuff 
+- 💞️ Love to build stuff 
 - 🌱 I’m currently learning Artificial Intelligence and Machine learning
 - 🔗 Rocking a cool 1k+ connections on LinkedIn, let's connect!
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the portfolio! 💻❤️
