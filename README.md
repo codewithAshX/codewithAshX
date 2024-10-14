@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI%E2%80%99m+%40codewithAshX+%5B+Ashray+Chauhan%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hi%2CI%E2%80%99m+%40codewithAshX+%5B+Ashray+Chauhan%5D)](https://git.io/typing-svg)
 
 - 📫 How to reach me: ashraychauhan333@gmail.com
 - 💞️ Love to build stuff 
